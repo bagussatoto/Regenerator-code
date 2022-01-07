@@ -1,8 +1,8 @@
-#                        Amikom One By                           #
+#                        Regenerator                             #
 ##################################################################
 # Author    : Bagus Satoto                                       #
 # Instagram : @bagussatoto1                                      #
-# Link IG   : https://www.instagram.com/bagus_satoto1/          #
+# Link IG   : https://www.instagram.com/bagus_satoto1/           #
 # Git       : https://github.com/bagussatoto                     #
 # Team      : ABP-Amikom Business Park                           #
 # Git       : https://github.com/ABP-Amikom                      #  
